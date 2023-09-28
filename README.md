@@ -1,4 +1,4 @@
-## ☕ Sobre mim
+## ☕ Objetivo
 * Meu objetivo é trabalhar como desenvolvedor e atualmente estou desenvolvendo aplicações Backend usando Java, Spring Boot, PostgreSQL, Maven, Git e Hibernate. Possuo experiência em desenvolvimento de aplicações web e APIs REST, agilidade para aprender novas tecnologias e adaptabilidade a diferentes ambientes.
 
 <hr/>
